@@ -22,7 +22,8 @@ end
 
 
 def output_array(array)
-  
+  count = 0 
+  while count < 
 end
 
 
